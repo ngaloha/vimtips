@@ -18,12 +18,6 @@ set cindent
 " Highlite search string
 set hlsearch
 
-" Disable Arrow keys
-noremap <Up> <NOP>
-noremap <Down> <NOP>
-noremap <Left> <NOP>
-noremap <Right> <NOP>
-
 " Disable compatible mode. Dont know what it stands for
 set nocompatible
 
